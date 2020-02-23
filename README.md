@@ -2,6 +2,7 @@
 
 ### Features
 
+* Typescript by [ts-loader](https://github.com/TypeStrong/ts-loader)
 * ES6 by [Babel](https://babeljs.io/)
 * Test by [Jest](https://jestjs.io/)
 * Coverage by [Istanbul](https://istanbul.js.org/)
