@@ -4,7 +4,7 @@
 const { jsWithBabel: tsjPreset } = require('ts-jest/presets');
 
 module.exports = {
-	displayName: 'SEED-TS',
+	displayName: 'SEED-WEB-TS',
 	// All imported modules in your tests should be mocked automatically
 	// automock: false,
 
@@ -82,8 +82,8 @@ module.exports = {
 	moduleFileExtensions: [
 		'js',
 		'json',
+		'ts',
 		// "jsx",
-		'ts'
 		// "tsx",
 		// "node"
 	],
